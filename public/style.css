@@ -1,0 +1,41 @@
+img {
+  display: block;
+  margin: 0 auto;
+  width: 35%;
+}
+
+html {
+  font-size: 10px;
+  font-family: 'Caveat Brush', cursive;
+  background-color: #B5A53F;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #DDF103;
+  text-shadow: 3px 3px 1px black;
+}
+h2 {
+  font-size: 20px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #DDF103;
+  text-shadow: 2px 2px 1px black;
+}
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  color: #DDF103;
+  letter-spacing: 1px;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #19305B;
+  padding: 0px 20px 20px 20px;
+  border: 5px solid black;
+      }
